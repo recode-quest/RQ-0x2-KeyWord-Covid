@@ -24,3 +24,5 @@ Key Word: **Covid**
 ## SOLUTIONS
 
 Assuming you want to be listed here, you need to supply your solution until 13.03.2021 and comply with [regulations](https://github.com/recode-quest/REGULATIONS).
+
+- [appollock](https://github.com/appollock/RQ-0x2-KeyWord-Covid)
